@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "Stream 1",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some other stream",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "And it works like a charm!",
+      "id": 4
+    },
+    {
+      "title": "Trying this",
+      "description": "After the refactoring, and this really works!",
+      "id": 6
+    },
+    {
+      "title": "Last one",
+      "description": "For real",
+      "userId": "100309797314748224449",
+      "id": 7
+    },
+    {
+      "title": "Eccolo",
+      "description": "asdasdasd",
+      "userId": "100309797314748224449",
+      "id": 8
+    }
+  ]
+}
